@@ -1,9 +1,16 @@
-/* #under5, #over5under7, #over7 {
+#under5, #over5under7, #over7 {
   display: none;
-} */
+}
+
 body {
   background: rgb(7, 12, 83);
   color: rgb(250, 255, 181);
+}
+
+.image {
+  background-
+  width: 50vw;
+  margin: auto;
 }
 .crocs {
   font-size: x-small;

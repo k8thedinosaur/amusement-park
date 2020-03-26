@@ -12,12 +12,16 @@
       <div class="header">
         <h1>Safety first!</h1>
         <p>Are you wondering which rides at <strong>(f)UNamusment Park</strong> may be the best fit for you based on your height?</p>
-        <select class="form-control" id="height">
-          <option value="under5">Under 5 feet</option>
-          <option value="over5under7">5-7 feet</option>
-          <option value="over7">Over 7 feet</option>
-        </select>
-        <button type="submit" class="btn">Find out!</button>
+        <form>
+          <select id="height" class="form-control">
+            <option value="under5">Under 5 feet</option>
+            <option value="over5under7">5-7 feet</option>
+            <option value="over7">Over 7 feet</option>
+          </select>
+          <!-- <label for="height">Enter your height:</label>
+            <input id="height" class="form-control" type="text"> -->
+          <button type="submit" class="btn" id="submit">Find out!</button>
+        </form>
       </div>
       <div id="under5">
         <h2>Under 5 feet</h2>

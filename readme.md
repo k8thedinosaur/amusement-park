@@ -1,4 +1,4 @@
-# _Amusement Park_
+# [_Amusement Park_](https://k8thedinosaur.github.io/amusement-park/)
 
 #### _HTML/CSS/JS exercise for Epicodus, 3/26/20_
 
